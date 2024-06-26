@@ -1,0 +1,12 @@
+.image-container {
+    position: relative;
+}
+
+.text-over-image {
+    position: absolute;
+    top: 80%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+}
